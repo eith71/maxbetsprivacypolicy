@@ -1,0 +1,2 @@
+# maxbetsprivacypolicy
+Privacy Policy
