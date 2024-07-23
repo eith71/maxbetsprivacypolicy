@@ -8,7 +8,7 @@ Max Bets takes your privacy seriously. To better protect your privacy we provide
 
 ## Collection of Routine Information
 
-We only collect username, email, and password from users to keep track of their progress throughout their gaming experience. If a user wants to delete their account they may contact us at 10techni01@gmail.com to have their information wiped from the database. 
+We only collect username, email, and password from users to keep track of their progress throughout their gaming experience. If a user wants to delete their account they may insert their email and password in the correct inputs on the sign in page, then the tap "delete account" button to have their information wiped from the database. 
 
 No information provided will be sold to third parties ever.
 
